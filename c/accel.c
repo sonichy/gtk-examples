@@ -14,7 +14,7 @@
 
 #include <stdio.h>
 #include <gtk/gtk.h>
-
+#include <gdk/gdkkeysyms.h>
 // This is a callback that will be called when the accelerator is
 // pressed.
 void accelerator_pressed(void)
